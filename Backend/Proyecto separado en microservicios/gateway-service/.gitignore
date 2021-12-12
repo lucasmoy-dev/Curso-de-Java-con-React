@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+target/
+.idea/
+*.iml
+node/
+build/
+package-lock.json
