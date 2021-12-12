@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "cursoreactionic",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
